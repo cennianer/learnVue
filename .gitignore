@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+release.zip
+.idea/
+mock/
+release/m/
